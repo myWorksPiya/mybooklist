@@ -59,6 +59,23 @@ body {
   margin: 20px;
   text-align:center;
 }
+.userpicture{
+  width:60px;
+  border-radius: 60px ;
+}
+.loginBtn{
+
+  font-size: 20px;
+}
+.logoutBtn{
+  
+  font-size: 20px;
+}
+.profile{
+  position: absolute;
+  top:20px;
+  right:10px;
+}
 .form {
   padding:20px;
 }
